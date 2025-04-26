@@ -1,3 +1,9 @@
+## Acknowledgment
+
+This repository is derived from [Michael-Anderson-NCSU/expertiza](https://github.com/Michael-Anderson-NCSU/expertiza), which itself is a fork of [expertiza/expertiza](https://github.com/expertiza/expertiza).  
+Contributions were made toward enhancing tests, fixing bugs, and improving feature functionality.
+
+
 Expertiza
 =========
 
